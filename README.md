@@ -12,7 +12,7 @@
 - 提問詞:請用C#寫出heap sort的演算法
 - 提問詞:請用Javascript寫出heap sort的演算法
 
-# 請寫出heap sort的演算法
+### 請寫出heap sort的演算法
 
 
 
